@@ -1,4 +1,4 @@
-#This app is about product detail page.
+# This app is about product detail page.
 
 # Getting Started with Create React App
 
